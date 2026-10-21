@@ -7,16 +7,6 @@
 **Estudiante:** Gregorys Morel Duluc — Matrícula 2025-0035 (trabajo individual)
 **Asignación:** Semana 5 (08/10/2026) · **Entrega y debate:** Semana 7 (22/10/2026)
 
----
-
-## Entregables
-
-| Archivo | Descripción |
-|---|---|
-| [`docs/Practica_3_Propiedad_Intelectual_Grupo1.docx`](docs/Practica_3_Propiedad_Intelectual_Grupo1.docx) | Práctica completa en formato Word (editable) |
-| [`docs/Practica_3_Propiedad_Intelectual_Grupo1.pdf`](docs/Practica_3_Propiedad_Intelectual_Grupo1.pdf) | Práctica completa en formato PDF |
-| [`referencias/Ley_65-00_Derecho_de_Autor.pdf`](referencias/Ley_65-00_Derecho_de_Autor.pdf) | Ley No. 65-00 sobre Derecho de Autor |
-| [`referencias/Ley_20-00_Propiedad_Industrial.pdf`](referencias/Ley_20-00_Propiedad_Industrial.pdf) | Ley No. 20-00 sobre Propiedad Industrial |
 
 ## Propósito de la práctica
 
